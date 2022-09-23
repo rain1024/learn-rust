@@ -17,3 +17,7 @@ $ rustc main.rs
 $ ./hello
 Hello World!
 ```
+
+## Table of contents 
+
+* [01-hello-world](01-hello-world)
