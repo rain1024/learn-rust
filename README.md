@@ -22,3 +22,7 @@ Hello World!
 
 * [01-hello-world](01-hello-world)
 * [02-functions-datatypes](02-functions-datatypes)
+
+Other
+
+* [smart-pointers](smart-pointers)
