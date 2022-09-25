@@ -1,3 +1,6 @@
+// Follow this video tutorial Rust: Smart Pointers, Linked Lists - CS196 SP20
+// https://www.youtube.com/watch?v=2q1AzGUwL7M
+
 #[derive(Debug)]
 struct Node<T> {
   next: Option<Box<Node<T>>>,
