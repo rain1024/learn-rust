@@ -20,8 +20,9 @@ Hello World!
 
 ## Table of contents 
 
-* [01-hello-world](01-hello-world)
-* [02-functions-datatypes](02-functions-datatypes)
+* [01-hello-world](lesson01-hello-world)
+* [02-functions-datatypes](lesson02-functions-datatypes)
+* [03-structs](lesson03-structs)
 
 Other
 
