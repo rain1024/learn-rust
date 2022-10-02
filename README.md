@@ -1,6 +1,6 @@
 # Learn Rust
 
-* ⭐How to install Rust ([MacOS](installation/how-to-install-rust-on-macos.md))
+* ⭐ How to install Rust ([MacOS](installation/how-to-install-rust-on-macos.md))
 
 ## Journey
 
