@@ -27,3 +27,7 @@ Hello World!
 Other
 
 * [smart-pointers](smart-pointers)
+
+Notes 
+
+* 2022-10-02. I found this https://exercism.org/tracks/rust/concepts is very interesting. 
