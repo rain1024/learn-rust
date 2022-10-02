@@ -1,4 +1,4 @@
-# Lesson 1
+# Concept Hello World
 
 Write your first hello world
 
