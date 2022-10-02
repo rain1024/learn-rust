@@ -20,7 +20,7 @@ Hello World!
 
 ## Learn Rust Journey
 
-* [01. Concept Hello world](lesson01-hello-world)
+* [01. Concept Hello world](concepts/hello-world)
   * Exercise: [hello-world]()
 * [02-functions-datatypes](lesson02-functions-datatypes)
 * [03-structs](lesson03-structs)
