@@ -1,6 +1,8 @@
-<h3 align="center">
-Learn Rust
-</h3>
+<h2 align="center">
+Learn Rust <br/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/768px-Rust_programming_language_black_logo.svg.png">
+</h2>
 
 ## ⚡ Getting Started
 
