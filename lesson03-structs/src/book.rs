@@ -14,11 +14,11 @@ mod tests {
     use super::*;
 
     #[test]
-    fn test_book_1() {
+    fn test_1() {
       let book1 = Book {
         isbn: 10,
-        format: Paperback
+        format: BookFormat::Paperback
       };
-      assert_eq!(book.isbn, 10);
+      assert_eq!(book1.isbn, 10);
     }
 }
