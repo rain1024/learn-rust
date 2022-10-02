@@ -15,5 +15,6 @@ Some smart pointer use cases include:
 
 References
 
+* 2022, [Lecture 10 - Smart Pointers & Generics in Rust](https://www.youtube.com/watch?v=eNuehmu2GfY&t=710s&ab_channel=CSHonors%40Illinois), CS 128 Honors
 * https://blog.logrocket.com/smart-pointers-rust/ 
 * https://doc.rust-lang.org/book/ch15-00-smart-pointers.html
