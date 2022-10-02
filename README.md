@@ -1,22 +1,24 @@
-# Learn Rust
+<h3 align="center">
+Learn Rust
+</h3>
 
-### ⚡ Getting Started
+## ⚡ Getting Started
 
 * ⭐ How to install Rust on [MacOS](installation/how-to-install-rust-on-macos.md)
 
-### 📙 Concepts
+## 📙 Concepts
 
 * [01. Hello world](concepts/hello-world)  
 * [02. Functions & Datatypes](lesson02-functions-datatypes)
 * [03. Structs](lesson03-structs)
 * [Smart Pointers](smart-pointers)
 
-### 💪 Exercises
+## 💪 Exercises
 
 * [hello-world]() `hello-world`
 
 
-### Miscellaneous
+## Miscellaneous
 
 Notes
 
