@@ -1,24 +1,8 @@
 # Learn Rust
 
-Rust Hello world 
+* ⭐How to install Rust ([MacOS](installation/how-to-install-rust-on-macos.md))
 
-`main.rs` 
-
-```rs
-fn main() {
-    println!("Hello World!");
-}
-```
-
-Build and run code 
-
-```
-$ rustc main.rs
-$ ./hello
-Hello World!
-```
-
-## Learn Rust Journey
+## Journey
 
 * [01. Concept Hello world](concepts/hello-world)
   * Exercise: [hello-world]()
