@@ -23,6 +23,7 @@ This is my repository for learning rust.
 * [02-lucians-luscious-lasagna](exercises/e02-lucians-luscious-lasagna) `function`
 * [03-assembly-line](exercises/e03-assembly-line) `function`
 * [health-statistics](exercises/health-statistics) `struct`
+* [semi-structured-logs](exercises/semi-structured-logs) `enum`
 
 ## Miscellaneous
 
