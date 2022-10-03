@@ -22,6 +22,7 @@ This is my repository for learning rust.
 * [01-hello-world](exercises/e01-hello-world)
 * [02-lucians-luscious-lasagna](exercises/e02-lucians-luscious-lasagna) `function`
 * [03-assembly-line](exercises/e03-assembly-line) `function`
+* [health-statistics](exercises/health-statistics) `struct`
 
 ## Miscellaneous
 
