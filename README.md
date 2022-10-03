@@ -6,13 +6,13 @@ Learn Rust <br/>
 
 ## ⚡ Getting Started
 
-* ⭐ How to install Rust on [MacOS](installation/how-to-install-rust-on-macos.md)
+* ⭐ [How to install Rust on MacOS](installation/how-to-install-rust-on-macos.md)
 
 ## 📙 Concepts
 
 * [01. Hello world](concepts/c01-hello-world)  
 * [02. Functions & Datatypes](concepts/c02-functions-datatypes)
-* [03. Structs](c03-structs)
+* [03. Structs](concepts/c03-structs)
 * [Smart Pointers](smart-pointers)
 
 ## 💪 Exercises
