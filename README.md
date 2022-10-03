@@ -17,7 +17,8 @@ Learn Rust <br/>
 
 ## 💪 Exercises
 
-* [hello-world](exercises/e01-hello-world)
+* [01-hello-world](exercises/e01-hello-world)
+* [02-lucians-luscious-lasagna](exercises/e02-lucians-luscious-lasagna) `function`
 
 ## Miscellaneous
 
