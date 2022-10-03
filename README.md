@@ -10,14 +10,14 @@ Learn Rust <br/>
 
 ## 📙 Concepts
 
-* [01. Hello world](concepts/hello-world)  
-* [02. Functions & Datatypes](lesson02-functions-datatypes)
-* [03. Structs](lesson03-structs)
+* [01. Hello world](concepts/c01-hello-world)  
+* [02. Functions & Datatypes](concepts/c02-functions-datatypes)
+* [03. Structs](c03-structs)
 * [Smart Pointers](smart-pointers)
 
 ## 💪 Exercises
 
-* [hello-world]() `hello-world`
+* [hello-world](exercises/e01-hello-world)
 
 
 ## Miscellaneous
