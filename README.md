@@ -19,7 +19,6 @@ Learn Rust <br/>
 
 * [hello-world](exercises/e01-hello-world)
 
-
 ## Miscellaneous
 
 Notes
