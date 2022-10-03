@@ -2,8 +2,7 @@
 
 
 > ⚠️ This exercise is fully copied from 
-
-> ⚠️ https://exercism.org/tracks/rust/exercises/lucians-luscious-lasagna/
+> https://exercism.org/tracks/rust/exercises/lucians-luscious-lasagna/
 
 In this exercise you're going to write some code to help you cook a brilliant lasagna from your favorite cooking book.
 
