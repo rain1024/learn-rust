@@ -1,4 +1,9 @@
-## Instructions
+## Lucians Luscious Lasagna
+
+```
+This exercise is coppied from 
+https://exercism.org/tracks/rust/exercises/lucians-luscious-lasagna/
+```
 
 In this exercise you're going to write some code to help you cook a brilliant lasagna from your favorite cooking book.
 
@@ -45,7 +50,6 @@ Define the elapsed_time_in_minutes function that takes two parameters: the first
 elapsed_time_in_minutes(3, 20)
 // Returns: 26
 ```
-
 
 
 
