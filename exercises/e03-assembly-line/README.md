@@ -1,8 +1,10 @@
 ## Assembly Line
 
+⚠️
+
 ```
-> ⚠️ This exercise is fully copied from 
-> ⚠️ https://exercism.org/tracks/rust/exercises/assembly-line
+> This exercise is fully copied from 
+> https://exercism.org/tracks/rust/exercises/assembly-line
 ```
 
 In this exercise you'll be writing code to analyze the production of an assembly line in a car factory. The assembly line's speed can range from 0 (off) to 10 (maximum).
