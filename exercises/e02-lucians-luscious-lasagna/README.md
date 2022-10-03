@@ -42,9 +42,7 @@ preparation_time_in_minutes(2)
 
 ### Task 4
 
-```rs
 Define the elapsed_time_in_minutes function that takes two parameters: the first parameter is the number of layers you added to the lasagna, and the second parameter is the number of minutes the lasagna has been in the oven. The function should return how many minutes you've worked on cooking the lasagna, which is the sum of the preparation time in minutes, and the time in minutes the lasagna has spent in the oven at the moment.
-```
 
 ```rs
 elapsed_time_in_minutes(3, 20)
