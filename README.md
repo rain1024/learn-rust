@@ -4,6 +4,8 @@ Learn Rust <br/>
 <img style="height: 100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/768px-Rust_programming_language_black_logo.svg.png">
 </h3>
 
+This is my repository for learning rust.
+
 ## ⚡ Getting Started
 
 * ⭐ [How to install Rust on MacOS](installation/how-to-install-rust-on-macos.md)
@@ -19,6 +21,7 @@ Learn Rust <br/>
 
 * [01-hello-world](exercises/e01-hello-world)
 * [02-lucians-luscious-lasagna](exercises/e02-lucians-luscious-lasagna) `function`
+* [e03-assembly-line](exercises/e03-assembly-line) `function`
 
 ## Miscellaneous
 
