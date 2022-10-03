@@ -7,6 +7,12 @@ fn test_age() {
 }
 
 #[test]
+fn test_name() {
+  let mut bob = User::new(String::from("Bob"), 32, 155.2);
+  assert_eq!(String::from("Bob"), bob.weight());
+}
+
+#[test]
 fn test_weight() {
   let mut bob = User::new(String::from("Bob"), 32, 155.2);
   assert_eq!(155.2, bob.weight());
