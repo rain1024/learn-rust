@@ -16,6 +16,9 @@ This is my repository for learning rust.
 * [02. Functions & Datatypes](concepts/c02-functions-datatypes)
 * [03. Structs](concepts/c03-structs)
 * [Smart Pointers](smart-pointers)
+* Generics, Traits, Enums
+* Macros
+* Crates ecosystem
 
 ## 💪 Exercises
 
