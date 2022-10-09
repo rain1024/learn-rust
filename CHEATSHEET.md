@@ -18,3 +18,30 @@ match x {
   _ => println!("default case")
 }
 ```
+
+# Functional Programming 
+
+```rs
+/* Map */
+let a : Vec<i32> = vec![1, 2, 3, 4];
+a.into_iter().map(|x| x * 2).collect::<Vec<i32>>()
+// [2, 4, 6, 8]
+
+/* Filter */
+let a : Vec<i32> = vec![1, 2, 3, 4];
+a.into_iter().filter(|x| x % 2 == 0).collect::<Vec<i32>>()
+// [2, 4]
+
+/* Fold */
+let a : Vec<i32> = vec![1, 2, 3, 4];
+a.into_iter().fold(0, |s, x| s + x)
+// 10
+
+/* Windows */ 
+let a = vec![1, 2, 3, 4];
+for item in a.windows(3) {
+  println!("{:?}", item);    
+}
+// [1, 2, 3]
+// [2, 3, 4]
+```
