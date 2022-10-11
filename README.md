@@ -28,6 +28,7 @@ This is my repository for learning rust.
 * [health-statistics](exercises/health-statistics) `struct`
 * [semi-structured-logs](exercises/semi-structured-logs) `enum`
 * [low-power-embedded-game](exercises/low-power-embedded-game) `destructuring` `tuples` `iterator`
+* [sublist](exercises/sublist)
 
 ## Miscellaneous
 
