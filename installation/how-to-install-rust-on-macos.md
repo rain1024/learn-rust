@@ -21,3 +21,20 @@ $ rustc main.rs
 $ ./hello
 Hello World!
 ```
+
+## Rust with Visual Studio Code (2022)
+
+1. Get Visual Studio Code 1.72.1+
+2. Install [`rust-analyzer`](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer) extension
+3. Change Indent to 4
+
+Edit `settings.json` file (`Preferences: Open User Settings (JSON)`)
+
+```
+"[rust]": {
+      "editor.defaultFormatter": "rust-lang.rust-analyzer",
+      "editor.tabSize": 4
+    }
+```
+
+Now you can format rust file with `Control + Shift + I`
