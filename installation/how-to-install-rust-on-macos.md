@@ -25,8 +25,7 @@ Hello World!
 ## Rust with Visual Studio Code (2022)
 
 1. Get Visual Studio Code 1.72.1+
-2. Install [`rust-analyzer`](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer) extension
-3. Change Indent to 4
+2. Change Indent to 4
 
 Edit `settings.json` file (`Preferences: Open User Settings (JSON)`)
 
@@ -38,3 +37,10 @@ Edit `settings.json` file (`Preferences: Open User Settings (JSON)`)
 ```
 
 Now you can format rust file with `Control + Shift + I`
+
+3. Extensions
+
+* [`rust-analyzer`](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+* [`crates`](https://marketplace.visualstudio.com/items?itemName=serayuzgur.crates)
+* [`Tabnine AI`](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)
+* [`Error Lens`](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
