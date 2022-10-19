@@ -8,7 +8,7 @@ This is my repository for learning rust.
 
 ## ⚡ Getting Started
 
-* ⭐ [How to install Rust on MacOS](installation/how-to-install-rust-on-macos.md)
+* ⭐ [How to install Rust on MacOS](getting-started/how-to-install-rust-on-macos.md)
 
 ## 📙 Concepts
 

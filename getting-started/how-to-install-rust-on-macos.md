@@ -40,7 +40,7 @@ Now you can format rust file with `Control + Shift + I`
 
 3. Extensions
 
-* [`rust-analyzer`](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer) - Rust language support for Visual Studio Code (better than [`Rust` extension](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust))
+* [`rust-analyzer`](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer) - Rust language support for Visual Studio Code (better than [`Rust extension`](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust))
 * [`crates`](https://marketplace.visualstudio.com/items?itemName=serayuzgur.crates) - Helps Rust developers managing dependencies with Cargo.toml
 * [`Tabnine AI`](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode) - AI Code completion plugin
 * [`Error Lens`](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) - Improve highlighting of errors, warnings and other language diagnostics.
